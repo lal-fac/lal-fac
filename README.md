@@ -35,7 +35,6 @@ Technologies used:
  - React, Redux, CSS modules.
 
 The second one is a team project: ReMusic.
-
 ReMusic is a social web community built around reviewing, scoring and sharing music.  
 One of it's main axis is the dynamic, highly specific search engine. It allows for quering artists, albums, songs and users. It has several cross-search features and nested filters. Ideal for a library the size of ReMusic's. 
 It has social-interaction features such as in-app chat, follow and like functionalities and a notification system. 
@@ -46,6 +45,11 @@ Technologies used:
  - React, Redux, CSS modules
  - Firebase, Socket.io, Cloudinary
 
+### Contact
+
+If you are interested in my work, feel free to contact me through [LinkedIn](https://www.linkedin.com/in/luis-alfonso-escobedo-padilla/) or send me an email to luis.alfonso.ep@gmail.com
+
+See you soon!
 
 <!--
 **lal-fac/lal-fac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
