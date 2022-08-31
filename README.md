@@ -11,6 +11,8 @@ I'm a journalist turned programmer. I'm happy to say that the transition didn't 
     + NodeJs
     + Express
     + Sequelize
+  * Database:
+    + Postgres
   * FrontEnd:
     + React
     + Redux
