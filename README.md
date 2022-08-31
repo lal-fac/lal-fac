@@ -15,6 +15,8 @@ I'm a journalist turned programmer. I'm happy to say that the transition didn't 
     + React
     + Redux
 
+- SQL
+
 ### Aspirations
 
 - Python
