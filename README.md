@@ -30,6 +30,7 @@ I'm a journalist turned programmer. I'm happy to say that the transition didn't 
 In my profile you'll find two fully coded repositories. 
 
 The first one is a solo project: Classic Pokemon App. 
+
 A single page application designed to display, search for, sort and filter first-generation Pokemon.
 It features a Javascript-controlled form that links to a Postgres managed database for users to create their own Pokemon. 
 Design-wise, I tried to keep it video-gamey without going full 8-bit, everything is styled with pure CSS.
@@ -38,7 +39,8 @@ Technologies used:
  - PostgreSQL, Sequelize, NodeJS, Express
  - React, Redux, CSS modules.
 
-The second one is a team project: ReMusic.
+The second one is a team project: ReMusic ([watch a demo](https://vimeo.com/745504246)).
+
 ReMusic is a social web community built around reviewing, scoring and sharing music.  
 One of it's main axis is the dynamic, highly specific search engine. It allows for quering artists, albums, songs and users. It has several cross-search features and nested filters. Ideal for a library the size of ReMusic's. 
 It has social-interaction features such as in-app chat, follow and like functionalities and a notification system. 
