@@ -11,19 +11,21 @@ I'm a journalist turned programmer. I'm happy to say that the transition didn't 
     + NodeJs
     + Express
     + Sequelize
-  * Database:
-    + Postgres
+    + Mongoose
   * FrontEnd:
     + React
     + Redux
 
 - SQL
+- MongoDB
+
+- Java (Beginner)
+- Python (Beginner)
 
 ### Aspirations
 
-- Python
-- Big Data
-- Machine Learning
+- Data Science
+- Data Analysis
 
 ### Projects
 
